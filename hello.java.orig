@@ -1,10 +1,12 @@
-
+<<<<<<< HEAD
 class()#dev12
 {
 public static000 void main()#dev1
 {
 system.out.println("hello from dev1)
 }222
+1
+=======
 class()#dev2
 {
 public static void main()#dev2
@@ -12,4 +14,5 @@ public static void main()#dev2
 system.out.println("hello from dev1)
 }
 hello
+>>>>>>> 91efc6ae8800782f7f1ad71a8e061c8e8cb2a165
 }
